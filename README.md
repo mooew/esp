@@ -1,5 +1,6 @@
 # esp
-inspired by https://www.allaboutcircuits.com/projects/introduction-to-the-mqtt-protocol-on-nodemcu/
+inspired by 
+https://www.allaboutcircuits.com/projects/introduction-to-the-mqtt-protocol-on-nodemcu/
 https://www.foobarflies.io/a-simple-connected-object-with-nodemcu-and-mqtt/
 
 info hardware:
